@@ -3,7 +3,7 @@ import requests
 
 # Configure Streamlit page
 st.set_page_config(page_title="OpenRouter Chatbot", layout="wide")
-st.title("💬 OpenRouter Chatbot")
+st.title(" NA'S Chatbot")
 
 # --- Sidebar: customization controls ---
 st.sidebar.header("Settings")
